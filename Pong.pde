@@ -51,6 +51,7 @@ void draw() {
 
 // if ball hits wall, change direction of X
   if (x - radius < rectSizeX) {
+  //CODI
   }
 //NewGame
   if (x+radius>=___) {
@@ -59,7 +60,7 @@ void draw() {
 
 // if ball hits up or down, change direction of Y   
   if (y+radius > height || y-radius < 0) {
-    
+    //CODI
   }
 }
 
